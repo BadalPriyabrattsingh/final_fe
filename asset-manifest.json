@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://badalpriyabrattsingh.github.io/final_fe/static/css/main.ba6ddac0.css",
-    "main.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.06c4326d.js",
+    "main.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.74bb0079.js",
     "static/js/453.830350d2.chunk.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/453.830350d2.chunk.js",
     "static/media/bg_image.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/bg_image.38224654b5f8d1fc558b.jpg",
     "static/media/music.mp3": "https://badalpriyabrattsingh.github.io/final_fe/static/media/music.fc3a1aed7654e5b89895.mp3",
     "index.html": "https://badalpriyabrattsingh.github.io/final_fe/index.html",
     "main.ba6ddac0.css.map": "https://badalpriyabrattsingh.github.io/final_fe/static/css/main.ba6ddac0.css.map",
-    "main.06c4326d.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.06c4326d.js.map",
+    "main.74bb0079.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.74bb0079.js.map",
     "453.830350d2.chunk.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/453.830350d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba6ddac0.css",
-    "static/js/main.06c4326d.js"
+    "static/js/main.74bb0079.js"
   ]
 }
