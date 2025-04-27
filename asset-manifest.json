@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://badalpriyabrattsingh.github.io/final_fe/static/css/main.ba6ddac0.css",
-    "main.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.1de2f515.js",
+    "main.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.c7e59422.js",
     "static/js/453.830350d2.chunk.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/453.830350d2.chunk.js",
     "static/media/friends4.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends4.3b55325b69147a4c12e4.jpg",
     "static/media/friends3.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends3.ca0a2dba3469a39d296a.jpg",
@@ -34,11 +34,11 @@
     "static/media/family5.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family5.ebcb9445eb404db5c3b2.jpg",
     "index.html": "https://badalpriyabrattsingh.github.io/final_fe/index.html",
     "main.ba6ddac0.css.map": "https://badalpriyabrattsingh.github.io/final_fe/static/css/main.ba6ddac0.css.map",
-    "main.1de2f515.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.1de2f515.js.map",
+    "main.c7e59422.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.c7e59422.js.map",
     "453.830350d2.chunk.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/453.830350d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba6ddac0.css",
-    "static/js/main.1de2f515.js"
+    "static/js/main.c7e59422.js"
   ]
 }
