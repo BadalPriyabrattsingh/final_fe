@@ -1,17 +1,44 @@
 {
   "files": {
     "main.css": "https://badalpriyabrattsingh.github.io/final_fe/static/css/main.ba6ddac0.css",
-    "main.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.74bb0079.js",
+    "main.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.1de2f515.js",
     "static/js/453.830350d2.chunk.js": "https://badalpriyabrattsingh.github.io/final_fe/static/js/453.830350d2.chunk.js",
+    "static/media/friends4.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends4.3b55325b69147a4c12e4.jpg",
+    "static/media/friends3.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends3.ca0a2dba3469a39d296a.jpg",
+    "static/media/friends7.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends7.8adc5a51b3ef54a22819.jpg",
     "static/media/bg_image.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/bg_image.38224654b5f8d1fc558b.jpg",
+    "static/media/madhu9.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu9.38224654b5f8d1fc558b.jpg",
+    "static/media/madhu3.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu3.829d9ebd88adfd624a7b.jpg",
+    "static/media/friends8.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends8.1df5dfc9565a8201ba5c.jpg",
+    "static/media/madhu7.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu7.f856652b5901944ffdf7.jpg",
+    "static/media/family2.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family2.dc8a2c4e50217ab5568a.jpg",
     "static/media/music.mp3": "https://badalpriyabrattsingh.github.io/final_fe/static/media/music.fc3a1aed7654e5b89895.mp3",
+    "static/media/madhu5.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu5.f8f6d07b3ae87aeddbc2.jpg",
+    "static/media/madhu1.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu1.404d7f129521bf2e691a.jpg",
+    "static/media/madhu8.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu8.ed3753f7fca33733c1c3.jpg",
+    "static/media/madhu4.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu4.aedd756fda41a4294f68.jpg",
+    "static/media/family6.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family6.4de6f5b3428e0bc16f39.jpg",
+    "static/media/madhu2.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu2.a543a8e62992d4f124a6.jpg",
+    "static/media/friends1.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends1.6a9ed6e322a8b0666c08.jpg",
+    "static/media/family7.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family7.a7ba4c55b3c8a126fac8.jpg",
+    "static/media/friends9.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends9.ba2cfa4ab99a6d2159b1.jpg",
+    "static/media/friends2.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends2.7b313de37a0103a9f74a.jpg",
+    "static/media/family3.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family3.5b3c68e4520f030f3727.jpg",
+    "static/media/friends5.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends5.deab53847503c77fadaf.jpg",
+    "static/media/family4.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family4.bd2eae14e7a06e35378d.jpg",
+    "static/media/family8.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family8.62332e687d66e0c0d690.jpg",
+    "static/media/friends6.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/friends6.11b130fc71c3a52794bc.jpg",
+    "static/media/family1.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family1.8e539a612168caef5b48.jpg",
+    "static/media/family9.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family9.19020ab2f49844b2128a.jpg",
+    "static/media/madhu6.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/madhu6.5dbba3566667a3e33593.jpg",
+    "static/media/family5.jpg": "https://badalpriyabrattsingh.github.io/final_fe/static/media/family5.ebcb9445eb404db5c3b2.jpg",
     "index.html": "https://badalpriyabrattsingh.github.io/final_fe/index.html",
     "main.ba6ddac0.css.map": "https://badalpriyabrattsingh.github.io/final_fe/static/css/main.ba6ddac0.css.map",
-    "main.74bb0079.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.74bb0079.js.map",
+    "main.1de2f515.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/main.1de2f515.js.map",
     "453.830350d2.chunk.js.map": "https://badalpriyabrattsingh.github.io/final_fe/static/js/453.830350d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba6ddac0.css",
-    "static/js/main.74bb0079.js"
+    "static/js/main.1de2f515.js"
   ]
 }
